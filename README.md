@@ -1,4 +1,3 @@
 # git-training
 
-Jiseok CHOI
-
+YoungChan KIM
