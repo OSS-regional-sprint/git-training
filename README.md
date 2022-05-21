@@ -1,4 +1,4 @@
 # git-training
 
-Jiseok CHOI
+Youngsoo Shin
 
